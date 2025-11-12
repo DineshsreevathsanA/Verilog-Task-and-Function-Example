@@ -77,6 +77,15 @@ module tb_ripple_carry_adder_task;
     end
 endmodule
 ```
+### **4-bit Ripple Carry Adder Simulation Output **
+
+
+
+
+
+
+
+
 ### **4-bit Ripple Counter using Function**
 ```
 // 4-bit Ripple Counter using Function
@@ -115,6 +124,19 @@ module tb_ripple_counter_func;
     end
 endmodule
 ```
+### **4-bit Ripple Counter Simulation output **
+
+
+
+
+
+
+
+
+
+
+
+
 ### Result
 
 The simulation of the 4-bit Ripple Carry Adder using Task and 4-bit Ripple Counter using Function was successfully carried out in Vivado Design Suite.
